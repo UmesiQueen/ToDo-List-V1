@@ -15,7 +15,7 @@ This solution is from Angela Yu's Udemy Web Development Boot Camp Course - Secti
 ## Overview
   - Introduction to EJS(Encapsulated JavaScript)
   - Creating a dynamic website with views(ejs files)
-  - Using JavaScript Date Method
+  - Deploying Web app with Database to Heroku
 
 ### Screenshot
  ![Alt text](public/images/Screenshot.png?raw=true)
@@ -23,7 +23,7 @@ This solution is from Angela Yu's Udemy Web Development Boot Camp Course - Secti
 
 ### Links
 
-- Deployed Live site with Heroku[^*] - [Click to View]()
+- Deployed Live site with Heroku[^*] - [Click to View](https://git.heroku.com/desolate-journey-31163.git)
 
 
 ## My process
@@ -37,6 +37,7 @@ This solution is from Angela Yu's Udemy Web Development Boot Camp Course - Secti
 - ExpressJs
 - EJS
 - Heroku CLI
+- MongoDB Atlas
 
 ## Author
 
@@ -44,10 +45,10 @@ This solution is from Angela Yu's Udemy Web Development Boot Camp Course - Secti
 - Twitter - [@UmesiQueen](https://www.twitter.com/UmesiQueen)
 
 ### Footnote
-[^*]: Only the root directory can be accessed through heroku live site.        
-    However, **/work** route can be accessed manually after projected is cloned
+[^*]: For this project all users use the same database. 
+Hence, you might see already existing items on the list.
  
-> :memo: **Note:** This project will be updated in newer versions
+> :memo: **Note:** To create new lists append [/nameOfList] to end of url i.e ...desolate-journey-31163.git/School
 
 Wish me well!💙💚
 
