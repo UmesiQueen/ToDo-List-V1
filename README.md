@@ -23,7 +23,7 @@ This solution is from Angela Yu's Udemy Web Development Boot Camp Course - Secti
 
 ### Links
 
-- Deployed Live site with Heroku[^*] - [Click to View](https://git.heroku.com/desolate-journey-31163.git)
+- Deployed Live site with Heroku[^*] - [Click to View](https://desolate-journey-31163.herokuapp.com/)
 
 
 ## My process
